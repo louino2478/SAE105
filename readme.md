@@ -21,7 +21,7 @@ SAE105/
 ├── main.py     # Script Python principal
 ├── out/        # Dossier de sortie (out/maps.html est volontairement absent de ce dépôt)
 ├── README.md   # Ce fichier
-└── LICENSE     # Licence Creative Commons
+└── LICENSE     # Licence MIT
 ```
 Le fichier de logs `controltower_access.log` est disponible depuis l’intranet de l’université."
 ---
