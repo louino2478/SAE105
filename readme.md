@@ -23,23 +23,23 @@ SAE105/
 ├── README.md   # Ce fichier
 └── LICENSE     # Licence MIT
 ```
-Le fichier de logs `controltower_access.log` est disponible depuis l’intranet de l’université."
+Le fichier de logs `controltower_access.log` est disponible depuis l’intranet de l’université.  
 ---
 
 ## 🛠️ Technologies utilisées
 
-| Outil / Langage | Utilisation principale |
-|-----------------|------------------------|
-| `Python`        | Traitement des données |
+| Outil / Langage | Utilisation principale |  
+|-----------------|------------------------|  
+| `Python`        | Traitement des données |  
 ---
 
-## 🧑‍💻 Auteur
+## 🧑‍💻 Auteur  
 - 👤 **Louis Deschamps**  
   📧 [contact@louino.fr](mailto:contact@louino.fr)  
-  🎓 Étudiant en BUT Réseaux & Télécoms
+  🎓 Étudiant en BUT Réseaux & Télécoms  
 ---
 
-## 🔒 Licence
+## 🔒 Licence  
 > [!WARNING]  
 > **Plagiat interdit**  
 > Ce projet est distribué sous la licence **MIT**. Vous êtes **autorisé à réutiliser, modifier, distribuer ou intégrer ce code**, y compris à des fins commerciales, à **condition d'en citer l'auteur original et de conserver cette licence** dans toute copie ou version modifiée.  
