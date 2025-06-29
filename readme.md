@@ -1,4 +1,4 @@
-# SAE 105 - Traitée les données
+# SAE 105 - Traiter les données
 
 > _SAE 105 — BUT Réseaux & Télécommunications_  
 > **BUT RT - Semestre 1** | IUT Université de pau et des pays de l'adour (UPPA)
@@ -8,7 +8,7 @@
 Ce projet vise à concevoir un outil d'analyse des logs d'un serveur web, capable de :
 - Collecter et parser les données: Extraire les informations pertinentes du fichier de log Apache 2 fourni.
 - Analyser les données: Calculer diverses statistiques sur l'activité du site web, notamment:
-- Géolocalisation des adresses IP via un API externe.
+- Géolocalisation des adresses IP via une API externe.
 - Évolution du nombre de requêtes au fil du temps.
 - Répartition des systèmes d'exploitation et navigateurs utilisés par les visiteurs.
 - Fréquence des erreurs HTTP (codes 200, 404, 500, etc.).
